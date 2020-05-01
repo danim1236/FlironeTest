@@ -50,8 +50,8 @@
     <EmbedAssembliesIntoApk>True</EmbedAssembliesIntoApk>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="FlirSDK">
-      <HintPath>D:\Xamarin6\FLIR\FlirSDK\FlirSDK.dll</HintPath>
+    <Reference Include="FlirOneSdk">
+      <HintPath>..\FlirOneSdk.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Xml" />
